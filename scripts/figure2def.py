@@ -1,4 +1,3 @@
-import glob,os
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import davies_bouldin_score
